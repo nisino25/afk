@@ -193,7 +193,7 @@
     /* width: 50%; */
   }
 
-  .test{
+  .test{ 
 /* 
     position: absolute;
 
